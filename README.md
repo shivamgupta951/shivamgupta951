@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Shivam Gupta 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on full-stack web development, especially the MERN stack (MongoDB, Express.js, React, Node.js). I love building web applications and solving real-world problems through code.
 
