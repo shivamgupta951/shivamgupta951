@@ -61,14 +61,6 @@ Here are a few projects that showcase my skills and expertise in MERN stack deve
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-## 🔗 Find Me Online
-
-- 🌐 Personal Website: [yourwebsite.com](https://yourwebsite.com)
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
-- 📱 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-
 ## 🎉 Fun Fact
 
 - I love playing around with new frameworks and libraries, and I am constantly challenging myself with new coding problems and projects.
