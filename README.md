@@ -45,5 +45,5 @@
 
 ## 🤝 Let's Connect
 
-📄 [View My Resume]([https://drive.google.com/your-resume-link-here](https://docs.google.com/document/d/1Mc3LQ1aJP8TjV-zIpDFkefILu_ctRhht/edit?usp=sharing&ouid=109956806891477297940&rtpof=true&sd=true))  
-🔗 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/shivam-gupta-199203339/)) 
+📄 [View My Resume](https://docs.google.com/document/d/1Mc3LQ1aJP8TjV-zIpDFkefILu_ctRhht/edit?usp=sharing&ouid=109956806891477297940&rtpof=true&sd=true)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivam-gupta-199203339/)
