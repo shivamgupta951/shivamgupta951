@@ -6,7 +6,6 @@
 🚀 Currently contributing to **GirlScript Summer of Code (GSSoC) 2025**  
 📫 **Email:** kapilmohangupta20@gmail.com  
 📞 **Phone:** +91 9335791524  
-🔗 **GitHub:** [shivamgupta951](https://github.com/shivamgupta951)
 
 ---
 
