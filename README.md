@@ -1,8 +1,3 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="./hero-wave.svg" width="900" alt="Shivam Gupta header animation"/>
-</p>
-
 # 👋 Hi there, I'm Shivam Gupta
 
 🎓 **B.Tech CSE Student** @ Galgotias University (2023–2027)  
@@ -43,7 +38,7 @@
 
 ## 📈 GitHub Stats
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamgupta951&show_icons=true&theme=radical)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamgupta951&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgupta951&layout=compact&theme=radical)
 
 ---
