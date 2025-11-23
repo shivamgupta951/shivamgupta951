@@ -1,3 +1,8 @@
+<!-- Animated Header -->
+<p align="center">
+  <img src="./hero-wave.svg" width="900" alt="Shivam Gupta header animation"/>
+</p>
+
 # 👋 Hi there, I'm Shivam Gupta
 
 🎓 **B.Tech CSE Student** @ Galgotias University (2023–2027)  
