@@ -1,0 +1,58 @@
+<!-- hero-wave.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <clipPath id="round">
+      <circle cx="70" cy="90" r="60"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="100%" height="100%" rx="12" fill="#0b1220"/>
+
+  <!-- avatar (uses your uploaded file path) -->
+  <g transform="translate(10,10)">
+    <g clip-path="url(#round)">
+      <image href="/mnt/data/822a52e9-50d7-4739-ad2d-95cbe015f5b6.png" x="10" y="10" width="120" height="120" preserveAspectRatio="xMidYMid slice"/>
+    </g>
+    <!-- subtle pulse behind avatar -->
+    <circle cx="70" cy="90" r="60" fill="none" stroke="url(#g)" stroke-width="3" opacity="0.9">
+      <animate attributeName="r" values="60;72;60" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- main text -->
+  <g transform="translate(160,60)" font-family="Inter, Arial, sans-serif">
+    <text x="0" y="20" font-size="28" font-weight="700" fill="url(#g)">shivam gupta</text>
+
+    <!-- animated subtitle (wavy) -->
+    <text x="0" y="55" font-size="16" fill="#a6b0c3">
+      <tspan>building things at 2AM • making bugs & fixing them</tspan>
+      <animate attributeName="x" from="0" to="6" dur="0.9s" repeatCount="indefinite" />
+    </text>
+
+    <!-- bouncing emoji -->
+    <text x="350" y="-12" font-size="28">
+      <tspan>⚡</tspan>
+      <animateTransform attributeName="transform" attributeType="XML"
+        type="translate" values="0 0; 0 -10; 0 0" dur="1.1s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- decorative wave at bottom -->
+  <g transform="translate(0,140)">
+    <path d="M0 10 Q150 -20 300 10 T900 10 L900 40 L0 40 Z" fill="#071023" />
+    <path d="M0 15 Q150 -10 300 15 T900 15" stroke="url(#g)" stroke-width="2" fill="none">
+      <animate attributeName="d" dur="4s" repeatCount="indefinite"
+        values="
+          M0 15 Q150 -10 300 15 T900 15;
+          M0 15 Q150 0 300 5 T900 15;
+          M0 15 Q150 -10 300 15 T900 15
+        " />
+    </path>
+  </g>
+</svg>
