@@ -1,11 +1,10 @@
 # 👋 Hi there, I'm Shivam Gupta
 
 🎓 **B.Tech CSE Student** @ Galgotias University (2023–2027)  
-💻 **Full Stack Web Developer** | MERN Stack Enthusiast  
+💻 **Full Stack Web Developer**   
 🌍 **From:** India  
 🚀 Currently contributing to **GirlScript Summer of Code (GSSoC) 2025**  
 📫 **Email:** kapilmohangupta20@gmail.com  
-📞 **Phone:** +91 9335791524  
 
 ---
 
@@ -27,10 +26,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, C/C++, Python  
-- **Frontend:** React.js, Tailwind CSS, HTML, CSS  
+- **Languages:** JavaScript, C/C++, Python , java , typescript
+- **Frontend:** React.js, Tailwind CSS, HTML, CSS , Next.js
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Firebase (basic)  
+- **Database:** MongoDB, Firebase (basic) , SQL
 - **Tools & Platforms:** Git, GitHub, Cloudinary, Render, Vercel, Postman, JWT  
 - **Others:** Zustand, DaisyUI, MediaRecorder API, Open Source Collaboration
 
@@ -45,5 +44,4 @@
 
 ## 🤝 Let's Connect
 
-📄 [View My Resume](https://docs.google.com/document/d/1Mc3LQ1aJP8TjV-zIpDFkefILu_ctRhht/edit?usp=sharing&ouid=109956806891477297940&rtpof=true&sd=true)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivam-gupta-199203339/)
