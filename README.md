@@ -38,26 +38,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamgupta951&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgupta951&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgupta951&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamgupta951&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -65,21 +50,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamgupta951&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## 🐍 Snake Eating Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivamgupta951/shivamgupta951/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 👀 Profile Views Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamgupta951&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -101,8 +71,7 @@
 
 ---
 
-## ⚡ Fun Zone
-```bash
+## ⚡ Tracking You!
 > whoami
 Shivam Gupta
 
