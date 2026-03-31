@@ -41,15 +41,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgupta951&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgupta951&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamgupta951&theme=tokyo-night&hide_border=true" />
 </p>
-
 
 ---
 
@@ -73,10 +75,13 @@
 
 ## ⚡ Tracking You!
 > whoami
+> 
 Shivam Gupta
 
 > current_status
+> 
 Building something legendary 🚀
 
 > mood
+> 
 (⌐■_■)
