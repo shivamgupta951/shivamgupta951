@@ -63,6 +63,19 @@
 
 ---
 
+## 🏠 My Base 🚀
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivamgupta951/shivamgupta951/main/MyBase.png" width="700"/>
+</p>
+
+<p align="center">
+  ⚡ This is where the magic happens ⚡ <br/>
+  💻 Code • ☕ Coffee • 🔥 Grind • 🚀 Build
+</p>
+
+---
+
 ## 📩 Contact Me
 
 <p align="center">
@@ -74,14 +87,12 @@
 ---
 
 ## ⚡ Tracking You!
+
 > whoami
-> 
 Shivam Gupta
 
 > current_status
-> 
 Building something legendary 🚀
 
 > mood
-> 
 (⌐■_■)
