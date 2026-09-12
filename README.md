@@ -28,7 +28,7 @@
 
 ## 🌐 Live Portfolio
 
-[View Live Portfolio](https://technical-portfolio-theta.vercel.app/)
+[My Portfolio!](https://technical-portfolio-theta.vercel.app/)
 
 ## 🛠️ Tech Stack
 <p align="center">
