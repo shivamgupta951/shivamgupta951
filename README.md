@@ -10,23 +10,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Specialist;DSA+Grinder;Building+YemmyChats;Always+Learning+🚀" />
 </p>
 
+
 ---
 
 ## 🚀 About Me
 - 🎓 B.Tech CSE @ Galgotias University  
 - 💻 Full Stack Developer (MERN)  
-- 🔥 Currently building **YemmyChats**  
 - 🧠 Grinding DSA daily  
 - ☕ Debugging life one bug at a time  
 
 ---
 
 ## 🔥 Currently Working On
-- 🚀 Scaling **YemmyChats**
-- 🧠 Mastering **Dynamic Programming & Graphs**
-- ⚡ Building insane UI with **Next.js + Tailwind**
+~ My Self 💻☕
 
 ---
+
+## 🌐 Live Portfolio
+
+[View Live Portfolio](https://technical-portfolio-theta.vercel.app/)
 
 ## 🛠️ Tech Stack
 <p align="center">
